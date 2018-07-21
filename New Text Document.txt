@@ -1,0 +1,36 @@
+1.How to Develop a Deep Learning Photo Caption Generator from Scratch
+
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+
+2.A Gentle Introduction to Deep Learning Caption Generation Models
+
+https://machinelearningmastery.com/deep-learning-caption-generation-models/
+
+3.How to Automatically Generate Textual Descriptions for Photographs with Deep Learning
+
+https://machinelearningmastery.com/how-to-caption-photos-with-deep-learning/
+
+4.image-caption-generator
+
+https://github.com/neural-nuts/image-caption-generator
+
+5.Generating Captions
+Describing Videos with Neural Networks
+
+https://medium.com/@samim/generating-captions-c31f00e8396e
+
+6.How to create a poet / writer using Deep Learning (Text Generation using Python)?
+
+https://www.analyticsvidhya.com/blog/2018/03/text-generation-using-python-nlp/
+
+7.https://www.oreilly.com/learning/caption-this-with-tensorflow
+
+Caption this, with TensorFlow
+
+How to build and train an image caption generator using a TensorFlow notebook.
+
+
+8.Building an image caption generator with Deep Learning in Tensorflow
+
+https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
+
